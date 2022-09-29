@@ -9,4 +9,4 @@ pip install bs4
 pip install requests
 pip install mechanize
 pip install rich
-git clone 
+git clone https://github.com/Notfinderror404/Mr.X-Free.git
